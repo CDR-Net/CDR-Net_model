@@ -10,4 +10,6 @@
 !CDR-Net/train.py
 !CDR-Net/train_ema.py
 !CDR-Net/run.py
+!CDR-Net/run_ema.py
 !CDR-Net/test.py
+!CDR-Net/test_ema.py
